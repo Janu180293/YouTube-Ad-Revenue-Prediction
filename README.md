@@ -33,6 +33,7 @@ YouTube-Ad-Revenue-Prediction/
 ├── cleaned_youtube_dataset.csv    # Processed Dataset
 ├── youtube_revenue_model.pkl      # Trained ML Model
 ├── scaler.pkl                     # Standard Scaler
+├── requirements.txt
 ├── README.md
 └── images/
 ```
@@ -162,6 +163,7 @@ The application predicts the estimated **YouTube Advertisement Revenue**.
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 - Joblib
 - Streamlit
