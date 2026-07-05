@@ -35,7 +35,6 @@ YouTube-Ad-Revenue-Prediction/
 ├── scaler.pkl                     # Standard Scaler
 ├── requirements.txt
 ├── README.md
-└── images/
 ```
 
 ---
